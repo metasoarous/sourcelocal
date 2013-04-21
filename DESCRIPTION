@@ -1,0 +1,10 @@
+Package: sourcelocal
+Title: Relative code sourcing
+Type: Package
+Version: 1.0
+Date: 2013-04-21
+Author: Christopher Small
+Maintainer: Christopher Small <metasoarous@gmail.com>
+Description: Load R source code relative to the current file's location rather than relative to cwd (more like
+  every other sensible language...)
+License: GPL-2
